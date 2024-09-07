@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://riroznik.github.io/sitemap/sitemap.txt
